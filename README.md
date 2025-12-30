@@ -293,12 +293,6 @@ Media Merge节点需要至少2个有效的媒体输入。请检查：
 
 ---
 
-## 感谢
-
-感谢FFmpeg项目的所有贡献者 [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-
----
-
 ## License
 
 MIT License
